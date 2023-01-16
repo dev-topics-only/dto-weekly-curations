@@ -6,7 +6,7 @@
 
 ---
 
-[上一期](https://github.com/dev-topics-only/dto-weekly-curations) | [目录](https://github.com/dev-topics-only/dto-weekly-curations) | [RSS 订阅](https://dto.pipecraft.net/t/dto-weekly.rss) | [评论](https://dto.pipecraft.net/s/v8iady/dto_weekly_curations_1_2022_javascript)
+[上一期](https://github.com/dev-topics-only/dto-weekly-curations) | [目录](https://github.com/dev-topics-only/dto-weekly-curations) | [RSS 订阅](https://dto.pipecraft.net/t/dto-weekly.rss) | [邮箱订阅](https://tinyletter.com/dto) | [评论](https://dto.pipecraft.net/s/v8iady/dto_weekly_curations_1_2022_javascript)
 
 ---
 
@@ -18,21 +18,21 @@
 
 3. [2022 岁末总结 - soulteary (苏洋)](https://dto.pipecraft.net/s/a96zri/2022_soulteary) | [_soulteary.com_](https://soulteary.com/2022/12/29/2022-year-end-summary.html)
 
-4. [2022 工作学习总结 - Bruski](https://dto.pipecraft.net/s/376sy5/2022_bruski) | [_blog.bruski.wang_](https://blog.bruski.wang/2023/01/02/2022/2022-work-study-summary/) | [_V2EX_](https://www.v2ex.com/t/906269) | _151 人收藏_ | _97 comments_
+4. [2022 工作学习总结 - Bruski](https://dto.pipecraft.net/s/376sy5/2022_bruski) | [_blog.bruski.wang_](https://blog.bruski.wang/2023/01/02/2022/2022-work-study-summary/) | [_v2ex.com_](https://www.v2ex.com/t/906269) | _151 人收藏_ | _97 comments_
 
 5. [2022 年个人总结 - 唐巧](https://dto.pipecraft.net/s/4hvk7l/2022) | [_blog.devtang.com_](https://blog.devtang.com/2023/01/01/2022-summary/)
 
 ## 技术社区
 
-1. [Ask HN: What's on your home server?](https://dto.pipecraft.net/s/ir2pzl/ask_hn_what_s_on_your_home_server) | [_Hacker News_](https://news.ycombinator.com/item?id=34271167) | _516 points_ | _446 comments_
+1. [Ask HN: What's on your home server?](https://dto.pipecraft.net/s/ir2pzl/ask_hn_what_s_on_your_home_server) | [_hacker news_](https://news.ycombinator.com/item?id=34271167) | _516 points_ | _446 comments_
 
-2. [各位程序员都自己部署了那些私有服务？](https://dto.pipecraft.net/s/elxnzt) | [_V2EX_](https://www.v2ex.com/t/895498) | _356 人收藏_ | _106 comments_
+2. [各位程序员都自己部署了那些私有服务？](https://dto.pipecraft.net/s/elxnzt) | [_v2ex.com_](https://www.v2ex.com/t/895498) | _356 人收藏_ | _106 comments_
 
-3. [作为程序员，你可以开发一个 12306 吗？](https://dto.pipecraft.net/s/olwlob/12306) | [_V2EX_](https://www.v2ex.com/t/906691) | _41 人收藏_ | _175 comments_
+3. [作为程序员，你可以开发一个 12306 吗？](https://dto.pipecraft.net/s/olwlob/12306) | [_v2ex.com_](https://www.v2ex.com/t/906691) | _41 人收藏_ | _175 comments_
 
-4. [Your favorite timeless "technical books"?](https://dto.pipecraft.net/s/qkli4f/your_favorite_timeless_technical_books) | [_Lobsters_](https://lobste.rs/s/blfhr3/your_favorite_timeless_technical_books) | _49 points_ | _54 comments_
+4. [Your favorite timeless "technical books"?](https://dto.pipecraft.net/s/qkli4f/your_favorite_timeless_technical_books) | [_lobste.rs_](https://lobste.rs/s/blfhr3/your_favorite_timeless_technical_books) | _49 points_ | _54 comments_
 
-5. [Ask HN: What are your technology trends predictions for 2023?](https://dto.pipecraft.net/s/eamz4u/ask_hn_what_are_your_technology_trends) | [_Hacker News_](https://news.ycombinator.com/item?id=33919535) | _46 points_ | _82 comments_
+5. [Ask HN: What are your technology trends predictions for 2023?](https://dto.pipecraft.net/s/eamz4u/ask_hn_what_are_your_technology_trends) | [_hacker news_](https://news.ycombinator.com/item?id=33919535) | _46 points_ | _82 comments_
 
 ## 技术期刊
 
@@ -55,6 +55,7 @@
 ## 订阅方式
 
 - [DTO](https://dto.pipecraft.net/t/dto-weekly) ([RSS](https://dto.pipecraft.net/t/dto-weekly.rss))
+- [邮箱](https://tinyletter.com/dto)
 - [GitHub (Watch)](https://github.com/dev-topics-only/dto-weekly-curations)
 
 欢迎交流，投稿，订阅。

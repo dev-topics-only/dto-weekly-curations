@@ -17,11 +17,13 @@
 
 ## 周刊目录
 
+- `2023/01/16` - [DTO Weekly Curations #2 - You Want Modules, Not Microservices](https://github.com/dev-topics-only/dto-weekly-curations/blob/main/weekly/issue-2.md)
 - `2023/01/11` - [DTO Weekly Curations #1 - 2022 年 JavaScript 明星项目](https://github.com/dev-topics-only/dto-weekly-curations/blob/main/weekly/issue-1.md)
 
 ## 订阅方式
 
 - [DTO](https://dto.pipecraft.net/t/dto-weekly) ([RSS](https://dto.pipecraft.net/t/dto-weekly.rss))
+- [邮箱](https://tinyletter.com/dto)
 - [GitHub (Watch)](https://github.com/dev-topics-only/dto-weekly-curations)
 
 欢迎交流，投稿，订阅。
