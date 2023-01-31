@@ -17,6 +17,7 @@
 
 ## 周刊目录
 
+- `2023/01/31` - [DTO Weekly Curations #3 - 命令行的艺术](https://github.com/dev-topics-only/dto-weekly-curations/blob/main/weekly/issue-3.md)
 - `2023/01/16` - [DTO Weekly Curations #2 - You Want Modules, Not Microservices](https://github.com/dev-topics-only/dto-weekly-curations/blob/main/weekly/issue-2.md)
 - `2023/01/11` - [DTO Weekly Curations #1 - 2022 年 JavaScript 明星项目](https://github.com/dev-topics-only/dto-weekly-curations/blob/main/weekly/issue-1.md)
 
