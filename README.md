@@ -17,6 +17,7 @@
 
 ## 周刊目录
 
+- `2023/02/20` - [DTO Weekly Curations #6 - 小公司需要使用微服务架构吗？](https://github.com/dev-topics-only/dto-weekly-curations/blob/main/weekly/issue-6.md)
 - `2023/02/13` - [DTO Weekly Curations #5 - 聊聊程序员的信仰](https://github.com/dev-topics-only/dto-weekly-curations/blob/main/weekly/issue-5.md)
 - `2023/02/06` - [DTO Weekly Curations #4 - Side Project 指南 & 那些独立开发者都是怎么养活自己的？](https://github.com/dev-topics-only/dto-weekly-curations/blob/main/weekly/issue-4.md)
 - `2023/01/31` - [DTO Weekly Curations #3 - 命令行的艺术](https://github.com/dev-topics-only/dto-weekly-curations/blob/main/weekly/issue-3.md)
