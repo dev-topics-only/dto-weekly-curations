@@ -6,7 +6,7 @@
 
 ---
 
-[上一期](https://github.com/dev-topics-only/dto-weekly-curations/blob/main/weekly/issue-6.md) | [目录](https://github.com/dev-topics-only/dto-weekly-curations) | [RSS 订阅](https://dto.pipecraft.net/t/dto-weekly.rss) | [邮箱订阅](https://tinyletter.com/dto) | [评论](https://dto.pipecraft.net/s/ynsfnh/dto_weekly_curations_7_14)
+[上一期](https://github.com/dev-topics-only/dto-weekly-curations/blob/main/weekly/issue-6.md) | [下一期](https://github.com/dev-topics-only/dto-weekly-curations/blob/main/weekly/issue-8.md) | [目录](https://github.com/dev-topics-only/dto-weekly-curations) | [RSS 订阅](https://dto.pipecraft.net/t/dto-weekly.rss) | [邮箱订阅](https://tinyletter.com/dto) | [评论](https://dto.pipecraft.net/s/ynsfnh/dto_weekly_curations_7_14)
 
 ---
 
