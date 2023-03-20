@@ -80,7 +80,7 @@
    → [_1link.fun_](https://1link.fun/blog/issue/issue36/)
 
 5. [**老胡的周刊: 第 077 期 (01-31~02-05)**](https://dto.pipecraft.net/s/nhisjm/077_01_31_02_05)  
-   → [_weekly.howie6879.cn_](https://weekly.howie6879.cn/2023/01-31~02-05.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC077%E6%9C%9F%EF%BC%89.html)
+   → [_weekly.howie6879.cn_](https://weekly.howie6879.com/2023/01-31~02-05.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC077%E6%9C%9F%EF%BC%89.html)
 
 6. [**linux_china - Tech Weekly 2023-02-05**](https://dto.pipecraft.net/s/p6mxls/linux_china_tech_weekly_2023_02_05)  
    → [_linux-china.davao.page_](https://linux-china.davao.page/blog/2023-02-05-tech-weekly/)

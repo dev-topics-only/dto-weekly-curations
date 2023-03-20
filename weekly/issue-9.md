@@ -6,7 +6,7 @@
 
 ---
 
-[上一期](https://github.com/dev-topics-only/dto-weekly-curations/blob/main/weekly/issue-8.md) | [目录](https://github.com/dev-topics-only/dto-weekly-curations) | [RSS 订阅](https://dto.pipecraft.net/t/dto-weekly.rss) | [邮箱订阅](https://tinyletter.com/dto) | [评论](https://dto.pipecraft.net/s/xmnagx/dto_weekly_curations_9_rust_rust)
+[上一期](https://github.com/dev-topics-only/dto-weekly-curations/blob/main/weekly/issue-8.md) | [下一期](https://github.com/dev-topics-only/dto-weekly-curations/blob/main/weekly/issue-10.md) | [目录](https://github.com/dev-topics-only/dto-weekly-curations) | [RSS 订阅](https://dto.pipecraft.net/t/dto-weekly.rss) | [邮箱订阅](https://tinyletter.com/dto) | [评论](https://dto.pipecraft.net/s/xmnagx/dto_weekly_curations_9_rust_rust)
 
 ---
 
@@ -71,7 +71,7 @@
    → [_1link.fun_](https://1link.fun/blog/issue/issue42/)
 
 5. [**老胡的周刊: 第 082 期 (03-06~03-11)**](https://dto.pipecraft.net/s/o1b4mv/082_03_06_03_11)  
-   → [_weekly.howie6879.com_](https://weekly.howie6879.com//2023/03-06~03-11.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC082%E6%9C%9F%EF%BC%89.html)
+   → [_weekly.howie6879.com_](https://weekly.howie6879.com/2023/03-06~03-11.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC082%E6%9C%9F%EF%BC%89.html)
 
 6. [**开发者简报 #27**](https://dto.pipecraft.net/s/f5nwun/27)  
    → [_dev.com.cn_](https://dev.com.cn/post/450546983547961346)

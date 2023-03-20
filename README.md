@@ -19,6 +19,7 @@
 
 ## 周刊目录
 
+- `2023/03/20` - [DTO Weekly Curations #10 - Docker is deleting Open Source organisations - what you need to know](https://github.com/dev-topics-only/dto-weekly-curations/blob/main/weekly/issue-10.md)
 - `2023/03/13` - [DTO Weekly Curations #9 - 为 Rust 做贡献的经验分享，Rust 编译器源码概要](https://github.com/dev-topics-only/dto-weekly-curations/blob/main/weekly/issue-9.md)
 - `2023/03/06` - [DTO Weekly Curations #8 - 前端构建工具进化历程](https://github.com/dev-topics-only/dto-weekly-curations/blob/main/weekly/issue-8.md)
 - `2023/02/27` - [DTO Weekly Curations #7 - 入行 14 年，我还是觉得编程很难](https://github.com/dev-topics-only/dto-weekly-curations/blob/main/weekly/issue-7.md)
